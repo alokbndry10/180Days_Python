@@ -13,6 +13,6 @@ manipulating any information in that list.
 - Book: PYTHON CRASH COURSE 3RD EDITION 
 
 ![Python](https://github.com/alokbndry10/180Days_Python/blob/main/images/day1a.png)
-![Python](https://github.com/alokbndry10/180Days_Python/blob/main/images/day1a.png)
+![Python](https://github.com/alokbndry10/180Days_Python/blob/main/images/day1b.png)
 
 
