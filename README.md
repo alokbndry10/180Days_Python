@@ -29,5 +29,21 @@ manipulating any information in that list.
 ![Python](https://github.com/alokbndry10/180Days_Python/blob/main/images/day2c.png)
 ![Python](https://github.com/alokbndry10/180Days_Python/blob/main/images/day2d.png)
 
+**Day3 of 180 Days of Python!**
+-Today's focus was on mastering lists in Python:
+
+1️⃣ Explored the efficiency of loops for iterating through entire lists.
+2️⃣ Navigated the importance of indentation to avoid tricky errors.
+3️⃣ Delved into managing numerical lists for effective data handling.
+4️⃣ Learned to manipulate specific list elements for targeted actions.
+5️⃣ Met tuples and uncovered their unique characteristics in Python data structures.
+6️⃣ Polished my code styling, adhering to Python conventions for readability.
+
+- Book: PYTHON CRASH COURSE 3RD EDITION 
+
+![Python](https://github.com/alokbndry10/180Days_Python/blob/main/images/day3a.png)
+![Python](https://github.com/alokbndry10/180Days_Python/blob/main/images/day3b.png)
+![Python](https://github.com/alokbndry10/180Days_Python/blob/main/images/day3c.png)
+![Python](https://github.com/alokbndry10/180Days_Python/blob/main/images/day3d.png)
 
 
